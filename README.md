@@ -51,12 +51,6 @@ HResults -t -I test_words.mlf ./monophones1 recout.mlf
 
 Results : 
 
-====================== HTK Results Analysis =======================
-  Date: Fri Feb 17 14:42:29 2023
-  Ref : test_words.mlf
-  Rec : recout.mlf
------------------------- Overall Results --------------------------
 SENT: %Correct=0.00 [H=0, S=20, N=20]
 WORD: %Corr=49.76, Acc=22.27 [H=105, D=24, S=82, I=58, N=211]
-===================================================================
 
