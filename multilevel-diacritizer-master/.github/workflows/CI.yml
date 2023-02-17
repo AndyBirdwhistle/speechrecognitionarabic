@@ -1,0 +1,136 @@
+name: Continious Integration
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+
+  changes:
+
+    runs-on: ubuntu-latest
+
+    outputs:
+      backend: ${{ steps.filter.outputs.backend }}
+      frontend: ${{ steps.filter.outputs.frontend }}
+      integration: ${{ steps.filter.outputs.container }}
+      changes: ${{ steps.filter.outputs.changes }}
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dorny/paths-filter@v2.10.1
+        id: filter
+        with:
+          filters: |
+            backend:
+              - 'multilevel_diacritizer/**'
+              - 'pyproject.toml'
+              - 'poetry.lock'
+              - 'params/**'
+              - 'tests/**'
+              - '.github/workflows/**'
+            frontend:
+              - 'multilevel_diacritizer_ui/**'
+              - '.github/workflows/**'
+            container:
+              - 'Dockerfile'
+              - '.github/workflows/**'
+
+
+  backend:
+
+    needs: changes
+    if: ${{ needs.changes.outputs.backend == 'true' }}
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7.10
+
+    - name: Install Poetry
+      uses: snok/install-poetry@v1.1.4
+      with:
+        virtualenvs-create: true
+        virtualenvs-in-project: true
+
+    - name: Load the cached virtual environment
+      id: cached-poetry-dependencies
+      uses: actions/cache@v2
+      with:
+        path: .venv
+        key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
+  
+    - name: Install dependencies
+      if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+      run: poetry install --no-interaction --no-root
+
+    - name: Run tests
+      run: |
+        source .venv/bin/activate
+        python -m unittest discover tests/
+
+  frontend:
+
+    needs: changes
+    if: ${{ needs.changes.outputs.frontend == 'true' }}
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./multilevel_diacritizer_ui/
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Install Flutter
+      uses: subosito/flutter-action@v1
+      with:
+        flutter-version: '2.x'
+        channel: 'stable'
+
+    - name: Install Flutter dependencies
+      run: flutter pub get
+    - name: Run Flutter tests
+      run: flutter test
+
+  integration:
+
+    env:
+      IMAGE: multilevel-diacritizer
+      NETWORK: local
+    needs: changes
+    runs-on: ubuntu-latest
+    if: ${{ needs.changes.outputs.changes != '[]' }}
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: Build docker image
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          tags: ${{ env.IMAGE }}:latest
+          load: true
+
+      - name: Create a network
+        run: docker network create ${{ env.NETWORK }}
+
+      - name: Run the container
+        run: docker run --rm -d -p 8000:8000 --name ${{ env.IMAGE }} --network ${{ env.NETWORK }} ${{ env.IMAGE }}:latest
+
+      - name: Test HTTP GET
+        run: docker run --rm --network ${{ env.NETWORK }} curlimages/curl:latest http://${{ env.IMAGE }}:8000/
+
+      - name: Test HTTP POST
+        run: docker run --rm --network ${{ env.NETWORK }} curlimages/curl:latest -d "تجريب نص عربي لتشكيله" http://${{ env.IMAGE }}:8000/
+
+      - name: Stop the container
+        run: docker stop ${{ env.IMAGE }}

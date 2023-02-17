@@ -1,0 +1,3 @@
+# Exclude the Flutter generated web app.
+*.js linguist-generated
+*.html linguist-generated

@@ -1,0 +1,494 @@
+ـ		ـ sp 
+ONE THREE 		ONE THREE  sp 
+TWO ZERO ZERO FIVE 		TWO ZERO ZERO FIVE  sp 
+TWO ZERO ONE FOUR 		TWO ZERO ONE FOUR  sp 
+TWO ZERO ONE FIVE 		TWO ZERO ONE FIVE  sp 
+SIX SIX 		SIX SIX  sp 
+آبَاؤُهُم		Aab a A ؤُh u m  sp 
+آلِ		Aal i  sp 
+آمل		Aam l  sp 
+أتعلَّمَ		A t E l l a m a  sp 
+أتعلّم		A t E l ّm  sp 
+أَجْلِ		a  j l i  sp 
+أُحَاوِلُ		u H a A w i l u  sp 
+أحْلاَمَهَا		A H l a  m a h a A  sp 
+أحْيَتِ		A H y a t i  sp 
+أَدِلَّةٌ		a  d i l l a t uN  sp 
+أسئِلَتِها		A s ئِl a t i h A  sp 
+أَسَاسِيَّةٍ		a  s a A s i y y a t t iN  sp 
+أسْبُوعَ		A s b u w E a  sp 
+أَسَدٍ		a  s a d iN  sp 
+أظفَرُ		A Z f a r u  sp 
+أظْهَرَتْ		A Z Z aN h a r a t  sp 
+أَظْهَرَتْ		a  Z Z aN h a r a t  sp 
+أَعْدَدْتُ		a  E d a d t u  sp 
+أَعْرَبَ		a  E r a b a  sp 
+أعْلَى		A E l a ى sp 
+أَفْنَى		a  f n a ى sp 
+أُقابِلَ		u q A b i l a  sp 
+أكْثَرَ		A k th a r a  sp 
+أَكَّدَتْ		a  k k a d a t  sp 
+أكونُ		A k w n u  sp 
+أَمِيرِ		a  m i y r i  sp 
+أن		A n  sp 
+أنَّ		A n n a  sp 
+أنْ		A n  sp 
+أَنَّ		a  n n a  sp 
+أنا		A n A  sp 
+أَنْحَاءَ		a  n H a A e a  sp 
+أَوْ		a  w  sp 
+أُورُوبَّا		u w r u w b b a A  sp 
+أَوَّلاً		a  w a l aN  sp 
+إطْلَاقَ		إT l a A q a  sp 
+إِقْلِيمِ		i q l i y m i  sp 
+إلَى		إl a ى sp 
+إِمْكَانِيَّتِهَا		i m k a A n i y y a t i h a A  sp 
+إنْ		إn  sp 
+إِنَّ		i n n a  sp 
+إنّها		إn ّh A  sp 
+ابْتِدَاءً		A b t i d a A e aN sp 
+ابْنَةِ		A b n a t i  sp 
+اثْنَا		A th n a A  sp 
+اسْتِخْدَامَ		A s t i K d a A m a  sp 
+اسْتِعْمَالُ		A s t i E m a A l u  sp 
+اسْتُعْمِلَتْ		A s t u E m i l a t  sp 
+اِسْتَقْبَلَتْني		i s t a q b a l a t n y  sp 
+اسْتَمَرَّ		A s t a m a r r a  sp 
+اسْمَ		A s m a  sp 
+اِسْمٌ		i s m uN  sp 
+اصْطَدَمَ		A S T a d a m a  sp 
+الْـSIX NINE 		A l ـSIX NINE  sp 
+الْأجْهِزَةِ		A l A j h i z a t i  sp 
+الْأدَوَاتِ		A l A d a w a A t i  sp 
+الْأَرْبِعَاءَ		A l a  r b i E a A e a  sp 
+الأرض		A l A r D  sp 
+الْأرْضِ		A l A r D i  sp 
+الأستاذُ		A l A s t A dh u  sp 
+الْأَطْعِمَةِ		A l a  T E i m a t i  sp 
+الْأطْفَالُ		A l A T f a A l u  sp 
+الْأَقَلِّيَاتِ		A l a  q a l l i y a A t i  sp 
+الْأَمِيرِ		A l a  m i y r i  sp 
+الْأميرِكِيِّ		A l A m y r i k i y y i  sp 
+الْأَمِيرْكِيَّةِ		A l a  m i y r k i y y a t i  sp 
+الإجابَةِ		A l إj A b a t i  sp 
+الْإرْهَابِ		A l إr h a A b i  sp 
+الْإِسْرَائِيلِيِّ		A l i s r a A ئِy l i y y i  sp 
+الْإِسْلَامِيَّ		A l i s l a A m i y y a  sp 
+الْإِلِكْتِرُونِيَّةُ		A l i l i k t i r u w n i y y a t u  sp 
+الْإنْتَرْنِت		A l إn t a r n i t  sp 
+الْإنْسَانِ		A l إn s a A n i  sp 
+الانْتِحَارِ		A l A n t i H a A r i  sp 
+الْبَدَنِيُّ		A l b a d a n i y u ّ sp 
+البرِيطَانِيَّةُ		A l b r i y T a A n i y y a t u  sp 
+الْبِلَادِ		A l b i l a A d i  sp 
+الْبَيْتِ		A l b a y t i  sp 
+التَحْفِيزِ		A l t a H f i y z i  sp 
+التَّحَكُّمَ		A l t t a H a k k a m a  sp 
+التَّدْخِينِ		A l t t a d K i y n i  sp 
+التُّركِيَّةِ،		A l t t u r k i y y a t i ، sp 
+التَّفَاعُلِ		A l t t a f a A E u l i  sp 
+التَّقْرِيرِ،		A l t t a q r i y r i ، sp 
+التلامذةِ		A l t l A m dh t i  sp 
+التَّمْرِينِ،		A l t t a m r i y n i ، sp 
+التَّمْيِيزِ		A l t t a m y i y z i  sp 
+التّوفيقُ		A l t ّw f y q u  sp 
+الثَّانِي		A l th th a A n i y  sp 
+الثَّوَرَاتِ		A l th th a w a r a A t i  sp 
+الْجَدَلِ		A l j a d a l i  sp 
+الجديدةَ		A l j d y d t a  sp 
+الجمِيلَ		A l j m i y l a  sp 
+الْحالِي،		A l H A l i y ، sp 
+الْحَدِيدِ		A l H a d i y d i  sp 
+الْحُكُومَةُ		A l H u k u w m a t u  sp 
+الدَّرْسِ		A l d d a r s i  sp 
+الدّينَاصورات		A l d ّy n a A S w r A t  sp 
+الدّينَاصُورَاتِ		A l d ّy n a A S uN w r a A t i  sp 
+الذِّكْرَى		A l dh dh i k r a ى sp 
+الَّذِي		A l l a dh i y  sp 
+الّذي		A l ّdh y  sp 
+الرَّئِيسِ		A l r r a ئِy s i  sp 
+الرَّقَمُ		A l r r a q a m u  sp 
+الرُّمُوزِ		A l r r u m u w z i  sp 
+الرِّوَايَةِ		A l r r i w a A y a t i  sp 
+الرِّيَّاضَةِ		A l r i ّy a ّA D a t i  sp 
+الرِّيَاضِيَّةِ		A l r r i y a A D i y y a t i  sp 
+الزَّبَائِنِ		A l z z a b a A ئِn i  sp 
+الزَّمَنِ		A l z z a m a n i  sp 
+الزَّوَاجِ		A l z z a w a A j i  sp 
+الزَّيْتُونِ		A l z z a y t u w n i  sp 
+السَّابِقِ		A l s s a A b i q i  sp 
+السَّبَانِخِ		A l s s a b a A n i K i  sp 
+السُّرْعَةِ		A l s s u r E a t i  sp 
+السِّياساتِ،		A l s s i y A s A t i ، sp 
+السِّيجَارَةُ		A l s s i y j a A r a t u  sp 
+الشهرِ		A l  h r i  sp 
+الشُّهُورِ		A l sh sh u h u w r i  sp 
+الشَّوَارِعِ		A l sh sh a w a A r i E i  sp 
+الشَّيْخَةِ		A l sh sh a y K a t i  sp 
+الصَّحَافَةِ		A l S S a H a A f a t i  sp 
+الصَّحَفِيِّينَ		A l S S a H a f i y y i y n a  sp 
+الصِّينِ		A l S S i y n i  sp 
+الطُّلَّابِ		A l T T u l l a A b i  sp 
+الطَّيِّب		A l T T a y y i b  sp 
+الْعَاصِمَةِ		A l E a A S i m a t i  sp 
+الْعَالَمِ		A l E a A l a m i  sp 
+الْعَامَّةِ		A l E a A m m a t i  sp 
+الْعَدَدُ		A l E a d a d u  sp 
+الْعِرَاق		A l E i r a A q  sp 
+الْعِرَاقِ،		A l E i r a A q i ، sp 
+الْعَرَبِيُّ		A l E a r a b i y y u  sp 
+الْعَرَبِيِّ		A l E a r a b i y y i  sp 
+العربيةَ		A l E r b y t a  sp 
+الْعَرَبِيَّةِ		A l E a r a b i y y a t i  sp 
+الْعِلَاجِ		A l E i l a A j i  sp 
+الْعِمَارَةُ		A l E i m a A r a t u  sp 
+الْعَمَلَ		A l E a m a l a  sp 
+الْعُنْصُرِيِّ		A l E u n S uN r i y y i  sp 
+الْغِذَائِيِّ		A l gh i dh aA ئِy y i  sp 
+الْغَنِيَّةِ		A l gh a n i y y a t i  sp 
+الفائِزَةَ		A l f A ئِz a t a  sp 
+الْفَائِزِينَ		A l f a A ئِz i y n a  sp 
+الْفِلَسْطينيّ		A l f i l a s T y n y ّ sp 
+الْقَصِيرَةِ		A l q a S i y r a t i  sp 
+الْقُنْبُلَةِ		A l q u n b u l a t i  sp 
+الْكِتَابِيِّ		A l k i t a A b i y y i  sp 
+الْكَثِيرَ		A l k a th i y r a  sp 
+الْكُوَيْتِ		A l k u w a y t i  sp 
+الكُوَيْكِبُ		A l k u w a y k i b u  sp 
+الْكُوَيْكِبَ		A l k u w a y k i b a  sp 
+اللَّائِحَةُ		A l l l a A ئِH a t u  sp 
+اللغةَ		A l l gh t a  sp 
+اللُّغةَ		A l l l u gh t a  sp 
+اللهَ		A l l h a  sp 
+اللهُ		A l l h u  sp 
+اللهِ		A l l h i  sp 
+اللَّهِ		A l l l a h i  sp 
+الْمُؤَشِّرِ		A l m u ؤَsh sh i r i  sp 
+الْمَادِّيَّةِ		A l m a A d d i y y a t i  sp 
+الْمَجَالَاتِ		A l m a j a A l a A t i  sp 
+الْمُحَاوَلَةُ		A l m u H a A w a l a t u  sp 
+الْمَحْدُودَةِ		A l m a H d u w d a t i  sp 
+الْمَحْمُولَةِ		A l m a H m u w l a t i  sp 
+الْمُدَرِّسَةُ،		A l m u d a r r i s a t u ، sp 
+المَدِينةِ		A l m a d i y n t i  sp 
+الْمَرْكَزُ		A l m a r k a z u  sp 
+الْمُسْتَشْفَى		A l m u s t a sh f a ى sp 
+الْمَسْرَحِيَّة		A l m a s r a H i y y a t  sp 
+الْمُصَابَاتِ		A l m u S a A b a A t i  sp 
+الْمِصْرِيّ		A l m i S r i y ّ sp 
+الْمَعْزُولِ		A l m a E z u w l i  sp 
+الْمَعْهَدُ		A l m a E h a d u  sp 
+الْمُوسِيقَى		A l m u w s i y q a ى sp 
+الْمُوسِيقِيَّةِ		A l m u w s i y q i y y a t i  sp 
+الْمَوْضوُعِ		A l m a w D w u E i  sp 
+الْمَيَّاسَة		A l m a y y a A s a t  sp 
+النَّشَاطُ		A l n a ّsh a A T u  sp 
+النِّظَامِ		A l n n i Z a A m i  sp 
+النَّوَوِيَّةِ		A l n n a w a w i y y a t i  sp 
+الْهَان		A l h a A n  sp 
+الْوِحْدَةِ		A l w i H d a t i  sp 
+الْوَقْتِ		A l w a q t i  sp 
+اليائِسَةُ		A l y A ئِs a t u  sp 
+الْيَابَانُ		A l y a A b a A n u  sp 
+اليابانيةُ		A l y A b A n y t u  sp 
+انْتِبَاهَ		A n t i b a A h a  sp 
+انْقِرَاضِ		A n q i r a A D i  sp 
+انْقِسَامًا		A n q i s a A m aN A  sp 
+باختبارٍ		b A K t b A r iN  sp 
+بِاسْتِمْرَارٍ		b i A s t i m r a A r iN  sp 
+بِالْأَرْضِ		b i A l a  r D i  sp 
+بالأمْسِ		b A l A m s i  sp 
+بالتقْدِيرِ		b A l t q d i y r i  sp 
+بالجائِزةِ		b A l j A ئِz t i  sp 
+بِالْحَدِيدِ		b i A l H a d i y d i  sp 
+بِالسَّرَطَانِ		b i A l s s a r a T a A n i  sp 
+بِالسَّيْرِ		b i A l s s a y r i  sp 
+بالعربيةِ		b A l E r b y t i  sp 
+بالِغٍ		b A l i gh iN  sp 
+بِاللُّغَةِ		b i A l l l u gh a t i  sp 
+بِالْمُوسِيقَى،		b i A l m u w s i y q a ى، sp 
+بايدن		b A y d n  sp 
+بِتَخْصِيصِ		b i t a K S i y S i  sp 
+بِتعرِيبها		b i t E r i y b h A  sp 
+بِحَفَاوَةٍ		b i H a f a A w a t t iN  sp 
+بِدُونِ		b i d u w n i  sp 
+بَرَّد		b a r r a d  sp 
+بِرِضَا		b i r i D a A  sp 
+بِشَكْلٍ		b i sh a k l iN  sp 
+بصورةٍ		b S w r t t iN  sp 
+بِضَاعَةً		b i D a A E a t aN  sp 
+بِلَادَهُ		b i l a A d a h u  sp 
+بِما		b i m A  sp 
+بْنِ		b n i  sp 
+بِنِتِ		b i n i t i  sp 
+بِهَا		b i h a A  sp 
+بِهُدُوءٍ		b i h u d u w e iN  sp 
+بِهذِهِ		b i h dh i h i  sp 
+بِوَسَطِ		b i w a s a T i sp 
+بَيْتِهَا		b a y t i h a A  sp 
+بَيْنَ		b a y n a  sp 
+بينهما		b y n h m A  sp 
+تُؤَيِّدُ		t u ؤَy y i d u  sp 
+تَتَحَقَّقُ		t a t a H a q q a q u  sp 
+تَتَصَفَّحُ		t a t a S a f f a H u  sp 
+تتكوَّن		t t k w a n  sp 
+تَتَوَقَّعُ		t a t a w a q q a E u  sp 
+تُثِيرُ		t u th i y r u  sp 
+تِجَارِيَّةً		t i j a A r i y y a t aN  sp 
+تَحْتَ		t a H t a  sp 
+تَحْسِينِهَا		t a H s i y n i h a A  sp 
+تَدْرُسُ		t a d r u s u  sp 
+تَسَبَّبَ		t a s a b b a b a  sp 
+تَسْعَى		t a s E a ى sp 
+تعاني		t E A n y  sp 
+تَعْدِيلِ		t a E d i y l i  sp 
+تُقَدِّمُ		t u q a d d i m u  sp 
+تِقْنِيَّةُ		t i q n i y y a t u  sp 
+تَقُومُ		t a q u w m u  sp 
+تَقْيِيمِ		t a q y i y m i  sp 
+تُكَلِّمُها		t u k a l l i m u h A  sp 
+تكُنْ		t k u n  sp 
+تَمْهِيدِيَّةً		t a m h i y d i y y a t aN  sp 
+تَنَاوُلِ		t a n a A w u l i  sp 
+ثانِي		th A n i y  sp 
+ثَلاَثِ		th a l a  th i  sp 
+ثَلاَثمَاِئَةٍ		th a l a  th m a i ئَt t iN  sp 
+جَائِزَةِ		j a A ئِz a t i  sp 
+جَدِيدَةٌ		j a d i y d a t uN  sp 
+جَدِيرٌ		j a d i y r uN  sp 
+جُمَلاً		j u m a l aN  sp 
+جو		j w  sp 
+جيّدةٍ		j y ّd t t iN  sp 
+حتّى		H t ّى sp 
+حُدُوثِ		H u d u w th i  sp 
+حَدِيثَةٌ		H a d i y th a t uN  sp 
+حُرِّيَةُ		H u r r i y a t u  sp 
+حُقُوقِ		H u q u w q i  sp 
+حَمَد		H a m a d  sp 
+حَوَافِزَ		H a w a A f i z a  sp 
+حَوْلَ		H a w l a  sp 
+خِلَالِ		K i l a A l i  sp 
+خَلَقَ		K a l a q a  sp 
+خَلِيفَة		K a l i y f a t  sp 
+خَيْرٍ		K a y r iN  sp 
+دَارُ		d a A r u  sp 
+دَاعِيًا		d a A E i y aN A  sp 
+دامتْ		d A m t  sp 
+دخلتْ		d K l t  sp 
+دِرَاسَةٌ		d i r a A s a t uN  sp 
+رِبْحِيَّةٍ		r i b H i y y a t t iN  sp 
+رَسُولُ		r a s u w l u  sp 
+رَغْمَ		r a gh m a  sp 
+رَمْزٌ		r a m z uN  sp 
+رَمْزٍ		r a m z iN  sp 
+سَائِقٍ		s a A ئِq iN  sp 
+سارلاند		s A r l A n d  sp 
+سَبْعَةِ		s a b E a t i  sp 
+سَبِيلِ		s a b i y l i  sp 
+سَتَسْمَحُ		s a t a s m a H u  sp 
+سُجِّلَتْ		s u j j i l a t  sp 
+سُكَّانِ		s u k k a A n i  sp 
+سُلُطَاتِ		s u l u T a A t i  sp 
+سِنِّ		s i n n i  sp 
+سَنَتَعَرَّفُ		s a n a t a E a r r a f u  sp 
+سَنَوِيًّا		s a n a w i y y aN A  sp 
+سوفَ		s w f a  sp 
+سيقوم		s y q w m  sp 
+شاءَ		 A e a  sp 
+شِتَاءٍ		sh i t a A e iN  sp 
+شَجَرَةُ		sh a j a r a t u  sp 
+شَخْصًا		sh a K S aN A  sp 
+شَرِكَةٌ		sh a r i k a t uN  sp 
+شَرِكَةُ		sh a r i k a t u  sp 
+شنغيانْغ		 n gh y A n gh  sp 
+شَهْراً		sh a h r aN  sp 
+شَوَارِعِ		sh a w a A r i E i  sp 
+صَالِح		S a A l i H  sp 
+صِحِّيَّةً		S i H H i y y a t aN  sp 
+صَلىَ		S a l ىَ sp 
+صَنَمًا		S a n a m aN A  sp 
+طَبِيعِيٍّ		T a b i y E i y y iN  sp 
+طَوَابِقَ		T a w a A b i q a  sp 
+طويلةٍٍ		T w y l t t iN ٍ sp 
+عائشةَ		E A ئ t a  sp 
+عائِشَةُ		E A ئِsh a t u  sp 
+عَالَمِيٍّ		E a A l a m i y y iN  sp 
+عَامٍ		E a A m iN  sp 
+عَامًا		E a A m aN A  sp 
+عجزٍ		E j z iN  sp 
+عِدَّةَ		E i d d a t a  sp 
+عَشَرَ		E a sh a r a  sp 
+عِلاَجُ		E i l a  j u  sp 
+عِلَاجِيَّةٍ		E i l a A j i y y a t t iN  sp 
+عِلْمٍ،		E i l m iN ، sp 
+على		E l ى sp 
+عَلىَ		E a l ىَ sp 
+عَلىِ		E a l ىِ sp 
+عَلَى		E a l a ى sp 
+عَلَيْهِ		E a l a y h i  sp 
+عَنْ		E a n  sp 
+عِندَ		E i n d a  sp 
+عَهْدِ		E a h d i  sp 
+غَرْبِيَّ		gh a r b i y y a  sp 
+غَرِيبًا		gh a r i y b aN A  sp 
+غوغل		gh w gh l  sp 
+غَيْرُ		gh a y r u  sp 
+فَإنَّ		f a إn n a  sp 
+فَاتِحِ		f a A t i H i  sp 
+فبدأتْ		f b d A t  sp 
+فَتَحَ		f a t a H a  sp 
+فَتْرَةٍ		f a t r a t t iN  sp 
+فِدراليّ		f i d r A l y ّ sp 
+فِدْرَالِيٍّ		f i d r a A l i y y iN  sp 
+فَرِحَةً		f a r i H a t aN  sp 
+فسلَّمتْ		f s l l a m t  sp 
+فَقَدْ		f a q a d  sp 
+فَكَمْ		f a k a m  sp 
+فَلَمَّا		f a l a m m a A  sp 
+في		f y  sp 
+فيِ		f y i  sp 
+فِي		f i y  sp 
+قَائِمَةَ		q a A ئِm a t a  sp 
+قَاتِلٍ		q a A t i l iN  sp 
+قَاعَةِ		q a A E a t i  sp 
+قُبِضَ		q u b i D a  sp 
+قَبْلَ		q a b l a  sp 
+قَدْ		q a d  sp 
+قَرْنٍ		q a r n iN  sp 
+قريبٍ		q r y b iN  sp 
+قَطَر		q a T a r  sp 
+قِيَامَ		q i y a A m a  sp 
+كانت		k A n t  sp 
+كانتْ		k A n t  sp 
+كِتَابِ		k i t a A b i  sp 
+كُتُبَهَا		k u t u b a h a A  sp 
+كَذَلِكَ		k a dh al i k a  sp 
+كُلَّ		k u l l a  sp 
+كُلِّ		k u l l i  sp 
+كُنْتُ		k u n t u  sp 
+كَوْنِهَا		k a w n i h a A  sp 
+لِأغْرَاضٍ		l i A gh r a A D iN  sp 
+لِإِلْقَاءِ		l i i l q a A e i  sp 
+لِتَشْجِيعِ		l i t a sh j i y E i  sp 
+لِتَقُومواُ		l i t a q u w m w u  sp 
+لِتَوْفِيرِ		l i t a w f i y r i  sp 
+لِجَامِعَةِ		l i j a A m i E a t i  sp 
+لَجْنَةُ		l a j n a t u  sp 
+لِعامِ		l i E A m i  sp 
+لكُلِّ		l k u l l i  sp 
+لَكُمْ		l a k u m  sp 
+لِلْأَبْحاثِ		l i l a  b H A th i  sp 
+لِلْإبْدَاعِ		l i l إb d a A E i  sp 
+لِلتَّخَلُّصِ		l i l t t a K a l l u S i  sp 
+لِلسَّيَارَاتِ		l i l s s a y a A r a A t i  sp 
+لِلصُّمُودِ		l i l S uN ّm u w d i  sp 
+لِلْفَوْزِ		l i l f a w z i  sp 
+لِلْمَعْهَدِ،		l i l m a E h a d i ، sp 
+لِلنِّسَاءِ		l i l n n i s a A e i  sp 
+لم		l m  sp 
+مَأْوًى		m a A ْw aN ى sp 
+مَا		m a A  sp 
+مَالِيَّةً		m a A l i y y a t aN  sp 
+مِثْلَ		m i th l a  sp 
+مَجَالٍ		m a j a A l iN  sp 
+مَجَالَاتِ		m a j a A l a A t i  sp 
+مَجانًا		m a j A n aN A  sp 
+مَجَّانِيًّا		m a j j a A n i y y aN A  sp 
+مُحْتَوَاهَا		m u H t a w a A h a A  sp 
+مُحَمَّد		m u H a m m a d  sp 
+مُخْتَلِفَةٍ		m u K t a l i f a t t iN  sp 
+مَدِينَةِ		m a d i y n a t i  sp 
+مُرْسِي		m u r s i y  sp 
+مستقيلٍ		m s t q y l iN  sp 
+مَسْكَنِهَا		m a s k a n i h a A  sp 
+مُشْكِلَةِ		m u sh k i l a t i  sp 
+مِصْرَ		m i S r a  sp 
+مَعَ		m a E a  sp 
+مَغْرِبِيَّةٌ		m a gh r i b i y y a t uN  sp 
+مَفَاهِيمَ		m a f a A h i y m a  sp 
+مَفْتُوحٌ		m a f t u w H uN  sp 
+مُقَاوَمَةِ		m u q a A w a m a t i  sp 
+مَكَّةَ،		m a k k a t a ، sp 
+مِلْيُونَ		m i l y u w n a  sp 
+مُمَارَسَةِ		m u m a A r a s a t i  sp 
+مُمْتِعًا		m u m t i E aN A  sp 
+من		m n  sp 
+مِنَ		m i n a  sp 
+مِنْ		m i n  sp 
+مُنْتِجُوهَا		m u n t i j u w h a A  sp 
+منذ		m n dh  sp 
+مُنْذُ		m u n dh u  sp 
+مُوَاجَهَةِ		m u w a A j a h a t i  sp 
+مَوْقِعِهَا		m a w q i E i h a A  sp 
+مَوْقِفُ		m a w q i f u  sp 
+نَائِبُ		n a A ئِb u  sp 
+نَتائِجُ		n a t A ئِj u  sp 
+نَحْوَ		n a H w a  sp 
+نَحْوِ		n a H w i  sp 
+نِسَبِ		n i s a b i  sp 
+نُسْخَةٍ		n u s K a t t iN  sp 
+نُشَطَاءُ		n u sh a T a A e u  sp 
+نِظامٍ		n i Z A m iN  sp 
+نِظَامٍ		n i Z a A m iN  sp 
+نَفْسِهِ		n a f s i h i  sp 
+نِقَابَةِ		n i q a A b a t i  sp 
+نَقْصِ		n a q S i  sp 
+نهايةِ		n h A y t i  sp 
+هذا		h dh A  sp 
+هَذَا		h a dh aA  sp 
+هذه		h dh h  sp 
+هِذِهِ		h i dh i h i  sp 
+هل		h l  sp 
+هُنَاكَ		h u n a A k a  sp 
+هِيرُوشِيمَا		h i y r u w sh i y m a A  sp 
+وَآسْيَا		w a Aas y a A  sp 
+وأنا		w A n A  sp 
+وإِعَانَاتٍ		w i E a A n a A t iN  sp 
+وَاشنطُن		w a A  n T u n  sp 
+وَالْإِكْثَارِ		w a A l i k th a A r i  sp 
+والتوْقِيرِ		w A l t w q i y r i  sp 
+وَالرَّقَمُ		w a A l r r a q a m u  sp 
+وَالْقِصَّةِ		w a A l q i S S a t i  sp 
+وَالْكِتَابَةِ		w a A l k i t a A b a t i  sp 
+وَاللُّحُومِ		w a A l l l u H u w m i  sp 
+وَالْوَحْدَةُ		w a A l w a H d a t u  sp 
+وَبِاللهِ		w a b i A l l h i  sp 
+وَبِحَسَبِ		w a b i H a s a b i  sp 
+وَتَسَبَّبَ		w a t a s a b b a b a  sp 
+وَتَضَمَّنَت		w a t a D a m m a n a t  sp 
+وَتَقَدُّمٍ		w a t a q a d d u m iN  sp 
+وَجَدَ		w a j a d a  sp 
+ودِراسَةِ		w d i r A s a t i  sp 
+وَسِتِّينَ		w a s i t t i y n a  sp 
+وَسَعَادَةٍ		w a s a E a A d a t t iN  sp 
+وَسُلالَةِ		w a s u l A l a t i  sp 
+وَسَلَّمَ		w a s a l l a m a  sp 
+وسوفَ		w s w f a  sp 
+وَسِيلَةً		w a s i y l a t aN  sp 
+وَشَرْقِ		w a sh a r q i  sp 
+وَشَقِيقَةِ		w a sh a q i y q a t i  sp 
+وَضَيَّفَتْنِي		w a D a y y a f a t n i y  sp 
+وفي		w f y  sp 
+ولكنّ		w l k n ّ sp 
+ولكنّه		w l k n ّh  sp 
+وهذا		w h dh A  sp 
+وَهُوَ		w a h u w a  sp 
+وهي		w h y  sp 
+وَهِيَ		w a h i y a  sp 
+وَيَسْتَطِيعُ		w a y a s t a T iy E u  sp 
+وَيُقْصَد		w a y u q S a d u  sp 
+وَيُمْكِنُ		w a y u m k i n u  sp 
+يَتَجَوَّلُ		y a t a j a w a ّl u  sp 
+يَجِبُ		y a j i b u  sp 
+يُسَاعِدُهُمْ		y u s a A E i d u h u m  sp 
+يَسْتَحِقُّهُ؟		y a s t a H i q q u h u ؟ sp 
+يَسْتَخْدِمُهَا		y a s t a K d i m u h a A  sp 
+يَسَعُنِي		y a s a E u n i y  sp 
+يُشَتِّتُ		y u sh a t t i t u  sp 
+يُصْدِرُهُ		y u S d i r u h u  sp 
+يُطْلَقُ		y u T l a q u  sp 
+يَعْمَلُ		y a E m a l u  sp 
+يَكُونَ		y a k u w n a  sp 
+يناير/كَانُون		y n A y r /k a A n u w n  sp 
+يُنَظَّمُ		y u n a Z َّm u  sp 
+يَوْمَ		y a w m a  sp 
